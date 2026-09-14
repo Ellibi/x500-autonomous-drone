@@ -1,4 +1,3 @@
-# dexi5-autonomous-drone
 # DEXI 5 Autonomous Drone Project
 
 Autonomous quadcopter development project utilizing PX4 Autopilot, Gazebo simulation, QGroundControl, and an onboard companion computer architecture.
